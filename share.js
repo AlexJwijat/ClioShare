@@ -5,8 +5,8 @@
 // @description  Send links of selected files in Clio Manage
 // @match        https://app.clio.com/*
 // @grant        GM_addStyle
-// @updateURL    t
-// @downloadURL  t
+// @updateURL    https://github.com/AlexJwijat/ClioShare/raw/main/share.js
+// @downloadURL  https://github.com/AlexJwijat/ClioShare/raw/main/share.js
 
 // ==/UserScript==
 (function() {
